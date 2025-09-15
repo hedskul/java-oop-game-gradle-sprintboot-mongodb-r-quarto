@@ -17,10 +17,7 @@ finished document. To learn more about Quarto see <https://quarto.org>.
 1 + 1
 ```
 
-0.8.8 Principles of Object-Oriented Design
-
-As we embark on learning object-oriented programming in Java, there are
-a number of principles and practices that we will aspire towards.
+Principles of Object-Oriented Design
 
 Divide-and-Conquer Principle. Generally, we will divide solutions to
 problems into sets of interacting objects, each with its own specialized
