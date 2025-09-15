@@ -65,6 +65,17 @@ _book/
 hs_err_pid*
 replay_pid*
 
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# Gradle
+.gradle/
+build/
+
 #
 # R - github - gitignore
 #
@@ -127,3 +138,4 @@ rsconnect/
 #
 /professor
 /_professor
+/bin/
