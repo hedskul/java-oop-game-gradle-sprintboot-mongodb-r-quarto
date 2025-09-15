@@ -1,0 +1,8 @@
+project:
+  title: "java-oop-game-gradle-sprintboot-mongodb-r-quarto"
+  type: website
+output-dir: _site
+editor: source
+exclude:
+  - professor/**
+  - _professor/**
